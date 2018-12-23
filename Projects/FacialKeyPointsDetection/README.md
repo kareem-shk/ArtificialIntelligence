@@ -10,8 +10,8 @@ A model to detect 68 facial key points of human faces.
 
 
 ## Installation
-* pytorch
-* openCV
+* pytorch 0.4.1
+* openCV 3.4.1
 * numpy
 
 ## Scope for Improvement
